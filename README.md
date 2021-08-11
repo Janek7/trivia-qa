@@ -4,5 +4,5 @@ This project was developed in course of the [IE 691 Information Retrieval and We
 
 The solution covers the following steps:
 1. Document Retrieval with BM25 and VSM
-2. Reranking of retrieved documents with RoBERTa
-3. Answer extraction with RoBERTa
+2. Neural reranking of retrieved documents with RoBERTa
+3. Answer extraction with multiple BERT variants
